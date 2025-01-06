@@ -1,0 +1,9 @@
+root: ./
+
+​structure:
+  readme: README.md
+  summary: SUMMARY.md​
+
+redirects:
+  previous/page: chapter1/section1.1.md
+  previous/page: chapter2.md
